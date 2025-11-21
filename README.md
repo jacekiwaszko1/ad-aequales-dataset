@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17666341.svg)](https://doi.org/10.5281/zenodo.17666341)
+
 # Compositions _ad aequales_ in the Music Collections of Wawel Cathedral: A Digital Approach to Repertoire Extraction
 
 ## The dataset
